@@ -1,2 +1,2 @@
 # Responsive
-This section demostrate the ways to create responsive design 
+This section demostrates the ways to create responsive design 
